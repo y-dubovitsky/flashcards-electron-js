@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('https://img5.goodfon.ru/wallpaper/nbig/6/43/shkola-doska-nadpis-fon-mel-karandashi-knigi-iabloko-uchioba.jpg');
+    background-color: navy;
+    background-blend-mode: multiply;
+}
+
+main {
+    margin-top: 10em;
+    width: 80%;
+    margin-left: 10%;
+    float: left;
+}
+
+#meal {
+    width: 60%;
+    margin-left: 20%;
+}
+
+#meal h1, p {
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+
+#req {
+    float: left;
+    margin-left: 20%;
+    margin-top: 3em;
+    width: 60%;
+}
